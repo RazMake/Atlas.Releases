@@ -1,4 +1,1 @@
-{
-    "formatVersion":1,
-    "releases":[]
-}
+{"formatVersion":1,"releases":[{"bugFixes":[],"component":"Atlas","contractsVersion":"0.1.0.0","loggingAbstractionsVersion":"10.0.0.0","newFeatures":["Local Atlas back end and Windows desktop shell with authenticated local connections.","Discover isolated provider packages and inspect providers through the desktop app.","Publish versioned Atlas and provider packages with compatibility metadata."],"providers":[{"packageKey":"Atlas.Adapters.Mock","version":"0.1.3"}],"tag":"release/Atlas/0.1.3","version":"0.1.3"},{"asset":"Atlas.Adapters.Mock-0.1.3.zip","bugFixes":[],"component":"Mock","contractsVersion":"0.1.0.0","loggingAbstractionsVersion":"10.0.0.0","newFeatures":["Bundled mock provider for exercising Atlas provider discovery."],"packageKey":"Atlas.Adapters.Mock","sha256":"c5b6208ae6e13e2387457a43d8861c27b592109d2db5e335dd22e13782631b85","tag":"release/Mock/0.1.3","version":"0.1.3"}]}
